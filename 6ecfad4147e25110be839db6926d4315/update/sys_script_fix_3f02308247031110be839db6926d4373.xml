@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description/>
+        <name>test fix script</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[gs.info("tested, it can work!!!！");]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 03:49:31</sys_created_on>
+        <sys_id>3f02308247031110be839db6926d4373</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>test fix script</sys_name>
+        <sys_package display_value="Temp" source="x_626805_temp">6ecfad4147e25110be839db6926d4315</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temp">6ecfad4147e25110be839db6926d4315</sys_scope>
+        <sys_update_name>sys_script_fix_3f02308247031110be839db6926d4373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-10 08:53:37</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
